@@ -3496,8 +3496,6 @@ https://lnc-wttg-fox-aws.tubi.video/index.m3u8
 https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="WTXFFox29Philadelphia.us" tvg-name="WTXF Fox 29 Philadelphia" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="News",WTXF Fox 29 Philadelphia (720p)
 https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="XcorpsTV.us" tvg-name="Xcorps TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" group-title="Classic",Xcorps TV (720p)
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
 #EXTINF:-1 tvg-id="Xplore.us" tvg-name="Xplore" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="",Xplore (1080p)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kiVL66Q.png" group-title="",Yahoo! Finance (1080p)
