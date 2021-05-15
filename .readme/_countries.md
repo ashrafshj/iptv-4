@@ -148,7 +148,7 @@
 		<tr><td align="left">🇳🇱&nbsp;Netherlands</td><td align="right">109</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nl.m3u</code></td></tr>
 		<tr><td align="left">🇳🇨&nbsp;New Caledonia</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nc.m3u</code></td></tr>
 		<tr><td align="left">🇳🇿&nbsp;New Zealand</td><td align="right">21</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nz.m3u</code></td></tr>
-		<tr><td align="left">🇳🇮&nbsp;Nicaragua</td><td align="right">8</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ni.m3u</code></td></tr>
+		<tr><td align="left">🇳🇮&nbsp;Nicaragua</td><td align="right">11</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ni.m3u</code></td></tr>
 		<tr><td align="left">🇳🇪&nbsp;Niger</td><td align="right">2</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ne.m3u</code></td></tr>
 		<tr><td align="left">🇳🇬&nbsp;Nigeria</td><td align="right">10</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ng.m3u</code></td></tr>
 		<tr><td align="left">🇳🇺&nbsp;Niue</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nu.m3u</code></td></tr>
