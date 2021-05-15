@@ -1021,8 +1021,6 @@ http://pengshuilive.cbg.cn/pengshui01.m3u8
 http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="XuZhou3HD.cn" tvg-name="徐州3HD" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",徐州3HD
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="DeXingXinWenZongHe.cn" tvg-name="德兴新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",德兴新闻综合
-http://218.64.168.174:5011/vod/hls/c01/live.m3u8
 #EXTINF:-1 tvg-id="DW.cn" tvg-name="DW" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="",德国之声
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="DeZhouGongGongPinDao.cn" tvg-name="德州公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",德州公共频道 (576p)
@@ -1577,8 +1575,6 @@ http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1 tvg-id="DianZhangCaiJing.cn" tvg-name="点掌财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="AiQingGongYu.cn" tvg-name="爱情公寓" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",爱情公寓
-http://149.129.100.78/egame.php?id=322842111
 #EXTINF:-1 tvg-id="JianWeiXinWenZongHe.cn" tvg-name="犍为新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",犍为新闻综合
 http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
 #EXTINF:-1 tvg-id="XianXian1Tai.cn" tvg-name="献县1台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://inews.gtimg.com/newsapp_ls/0/420589832_200200/0.jpg" group-title="",献县1台
@@ -1647,8 +1643,6 @@ http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 http://fjnh.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FuHaiWeiYuZongHe.cn" tvg-name="福海维语综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",福海维语综合
 http://klmyyun.chinavas.com/hls/fuhai1.m3u8
-#EXTINF:-1 tvg-id="ZiGuiXinWenZongHe.cn" tvg-name="秭归新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",秭归新闻综合
-http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
 #EXTINF:-1 tvg-id="JiShiShanDianShiTai.cn" tvg-name="积石山电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://portrait2.sinaimg.cn/1296090737/blog/180.jpg" group-title="",积石山电视台
 http://117.156.28.119/270000001111/1110000152/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",第一财经
@@ -1733,30 +1727,6 @@ http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
 http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
 #EXTINF:-1 tvg-id="XiangYangZongHe.cn" tvg-name="襄阳综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",襄阳综合
 http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
-#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-name="西安丝路" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="",西安丝路
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnLeGouGouWu.cn" tvg-name="西安乐购购物" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" group-title="",西安乐购购物
-http://stream2.xiancity.cn/xatv6/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnJianKang.cn" tvg-name="西安健康" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安健康
-http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-name="西安商务资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="",西安商务资讯
-http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-name="西安影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="",西安影视
-http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-name="西安影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安影视
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-name="西安新闻" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安新闻
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWenZongHe.cn" tvg-name="西安新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="",西安新闻综合
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-name="西安白鸽" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安白鸽
-http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnZiXun.cn" tvg-name="西安资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安资讯
-http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnDuShi.cn" tvg-name="西安都市" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="",西安都市
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYinLeZongYi.cn" tvg-name="西安音乐综艺" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西安音乐综艺
-http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1 tvg-id="XiShanDianShiTai.cn" tvg-name="西山电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西山电视台
 http://218.26.97.12:5021/live_hls/1/c01.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",西藏卫视
