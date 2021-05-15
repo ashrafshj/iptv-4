@@ -9,15 +9,15 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 
 ## Usage
 
-To watch IPTV you just need to paste this link `https://iptv-org.github.io/iptv/index.m3u` to any player which supports M3U-playlists.
+To watch IPTV you just need to paste this link `https://free2021group.github.io/iptv/index.m3u` to any player which supports M3U-playlists.
 
 ![VLC Network Panel](.readme/preview.png)
 
 Also you can instead use one of these playlists:
 
-- `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by country)
-- `https://iptv-org.github.io/iptv/index.category.m3u` (grouped by category)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
+- `https://free2021group.github.io/iptv/index.country.m3u` (grouped by country)
+- `https://free2021group.github.io/iptv/index.category.m3u` (grouped by category)
+- `https://free2021group.github.io/iptv/index.language.m3u` (grouped by language)
 
 Or select one of the playlists from the list below.
 
@@ -54,7 +54,7 @@ Or select one of the playlists from the list below.
 
 </details>
 
-**NOTE:** Add `.sfw` to the end of the filename for the lists without any adult channels (For example: `https://iptv-org.github.io/iptv/countries/fr.sfw.m3u`).
+**NOTE:** Add `.sfw` to the end of the filename for the lists without any adult channels (For example: `https://free2021group.github.io/iptv/countries/fr.sfw.m3u`).
 
 ## For Developers
 
@@ -63,7 +63,7 @@ In addition to the above methods, you can also get a list of all available chann
 To do this, you just have to make a GET request to:
 
 ```
-https://iptv-org.github.io/iptv/channels.json
+https://free2021group.github.io/iptv/channels.json
 ```
 
 If successful, you should get the following response:

@@ -203,6 +203,8 @@ channels/nz.m3u
 channels/ne.m3u
 #EXTINF:-1,Nigeria
 channels/ng.m3u
+#EXTINF:-1,Nicaragua
+channels/ni.m3u
 #EXTINF:-1,North Korea
 channels/kp.m3u
 #EXTINF:-1,North Macedonia

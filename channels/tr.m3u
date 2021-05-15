@@ -273,6 +273,8 @@ http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist.m3u8
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 #EXTINF:-1 tvg-id="MAVIKARADENIZ.tr" tvg-name="MAVİ KARADENİZ" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",MAVİ KARADENİZ
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="MEDMUZIK.tr" tvg-name="MED MÜZİK" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",MED MÜZİK
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 #EXTINF:-1 tvg-id="MEDYAHABER.tr" tvg-name="MEDYA HABER" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",MEDYA HABER
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/23
 #EXTINF:-1 tvg-id="MEDYAHABER.tr" tvg-name="MEDYA HABER" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",MEDYA HABER
@@ -583,5 +585,3 @@ https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="UUTVUskudarUniversitesiTV.tr" tvg-name="ÜÜ TV Üsküdar Üniversitesi TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ÜÜ TV Üsküdar Üniversitesi TV (1080p)
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",MED MÜZİK
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
