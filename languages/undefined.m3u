@@ -1161,8 +1161,12 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 #EXTINF:-1 tvg-id="Canal10Emporda.es" tvg-name="Canal 10 Empordà" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Canal 10 Empordà
 http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="CANAL10HD.ni" tvg-name="CANAL 10 HD" tvg-country="NI" tvg-language="" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/Canal10-Nicaragua-Logo.jpg" group-title="",CANAL 10 HD
+https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/Canal10-Nicaragua-Logo.jpg" group-title="",CANAL 10 HD
 https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL11.ni" tvg-name="CANAL 11" tvg-country="NI" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ" group-title="",CANAL 11
+https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ" group-title="",CANAL 11
 https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="",CANAL 12 FULHD
@@ -1235,6 +1239,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg" group-title="",CANAL 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 tvg-id="CANAL9.ni" tvg-name="CANAL 9" tvg-country="NI" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawbZLCedJzRX06CAyU-jX37n9iyTxMVcIfg&usqp=CAU" group-title="",CANAL 9
+https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawbZLCedJzRX06CAyU-jX37n9iyTxMVcIfg&usqp=CAU" group-title="",CANAL 9
 https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Chile.cl" tvg-name="Canal 9 Chile" tvg-country="CL" tvg-language="" tvg-logo="" group-title="",Canal 9 Chile (240p)
