@@ -28,6 +28,8 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" group-title="",Al Qamar TV (360p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIstiqama.om" tvg-name="Al-Istiqama" tvg-country="OM" tvg-language="" tvg-logo="" group-title="",Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-name="Alaraby TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhiwarTV.uk" tvg-name="Alhiwar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Alhiwar TV (1080p)
@@ -76,8 +78,16 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Outdoor",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanAlthakafia.om" tvg-name="Oman Althakafia" tvg-country="OM" tvg-language="" tvg-logo="" group-title="",Oman Althakafia
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="OmanLive.om" tvg-name="Oman Live" tvg-country="OM" tvg-language="" tvg-logo="" group-title="",Oman Live
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sport (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanSports.om" tvg-name="Oman Sports" tvg-country="OM" tvg-language="" tvg-logo="" group-title="",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" tvg-country="OM" tvg-language="" tvg-logo="" group-title="",Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-name="Oman TV Cultural" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/sRlAGQD.png" group-title="Education",Oman TV Cultural (1080p)

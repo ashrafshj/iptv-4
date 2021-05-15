@@ -207,6 +207,8 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NoveIT.it" tvg-name="Nove IT" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="",Nove IT (720p)
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-name="Onda Novara TV" tvg-country="IT" tvg-language="" tvg-logo="" group-title="",Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 tvg-id="OrlerTV.it" tvg-name="Orler TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="",Orler TV (420p)
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-name="Padre Pio TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="",Padre Pio TV (330p)

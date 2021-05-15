@@ -66,8 +66,12 @@ http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="",M6 (1080p)
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-name="Meteonews" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="" group-title="Music",MTV Hits Europe (576p)
 http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+#EXTINF:-1 tvg-id="ONEFMTV.ch" tvg-name="ONE FM TV" tvg-country="CH" tvg-language="" tvg-logo="" group-title="",ONE FM TV
+https://edge4.vedge.infomaniak.com/livecast/smil:onefmmd.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="",One TV (720p)
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-id="OttoFMTV.ch" tvg-name="Otto FM TV" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="",Otto FM TV

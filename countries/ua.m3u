@@ -31,6 +31,8 @@ https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1 tvg-id="CNLEvropa.ua" tvg-name="CNL Европа" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="Religious",CNL Европа
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" tvg-country="UA" tvg-language="" tvg-logo="https://i.imgur.com/v5J8tiS.png" group-title="",GIT
+https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-id="GTV.ua" tvg-name="GTV" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg" group-title="",GTV (576p)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV.ua" tvg-name="GTV" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg" group-title="",GTV (720p)

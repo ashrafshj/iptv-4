@@ -371,6 +371,8 @@ http://v.btzx.com.cn:1935/live/news.stream/playlist.m3u8
 http://117.169.120.140:8080/live/neimenggustv/.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",内蒙古卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/neimenggustv/1.m3u8
 #EXTINF:-1 tvg-id="MianNingDianShiTai.cn" tvg-name="冕宁电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.sichuanmianning.com/images/mianlin_tv/img/logo.png" group-title="",冕宁电视台
 http://live.sichuanmianning.com/live/xwpd.m3u8
 #EXTINF:-1 tvg-id="JunShiPingLun.cn" tvg-name="军事评论" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="",军事评论

@@ -23,3 +23,5 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVMusicHD.cl" tvg-name="XTV Music HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/Gh3UlFo.jpg" group-title="Music",XTV Music HD (720p)
 https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZappingMusicHD.cl" tvg-name="Zapping Music HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
+https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8

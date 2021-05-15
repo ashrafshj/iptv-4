@@ -401,7 +401,7 @@ https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WRGB.us" tvg-name="Albany | CBS 6 WRGB" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="Local",Albany | CBS 6 WRGB (720p)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Music",Alegria TV
+#EXTINF:-1 tvg-id="AlegriaTV.bo" tvg-name="Alegria TV" tvg-country="BO" tvg-language="" tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Music",Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-name="Alerth Alnabawi" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi
 http://82.212.74.2:8000/live/7307.m3u8
@@ -2098,8 +2098,6 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="MarahFM.ps" tvg-name="Marah FM" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Music",Marah FM (720p)
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Sports",maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="MarylandBaltimoreSTIRR.us" tvg-name="Maryland: Baltimore (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Maryland: Baltimore (STIRR) (720p)
 https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Music",Mastiii (576p)
@@ -2175,6 +2173,8 @@ https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-name="Mekameleen TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News",Mekameleen TV (720p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MelodyFMJordan.jo" tvg-name="Melody FM Jordan" tvg-country="JO" tvg-language="Arabic" tvg-logo="http://melody-fm.com/img/Logo.png" group-title="Music",Melody FM Jordan
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MetalTV.ru" tvg-name="Metal TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Music",Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="METROTV.id" tvg-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="News",METRO TV (720p)
@@ -2296,7 +2296,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",MusicTop (720p)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 (RS)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="Music",Muzzik AMVA 2020 (RS)
+#EXTINF:-1 tvg-id="MuzzikAMVA2020RS.rs" tvg-name="Muzzik AMVA 2020 (RS)" tvg-country="RS" tvg-language="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="Music",Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzzikCafeClubSerbia.rs" tvg-name="Muzzik Cafe&Club Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Cafe&Club Serbia (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
@@ -2570,9 +2570,9 @@ https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OML on Revry" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc810e0f000c90dd9563252" group-title="Entertainment",OML on Revry
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ON TV (PT)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="Music",ON TV (PT)
+#EXTINF:-1 tvg-id="ONTV.pt" tvg-name="ON TV" tvg-country="PT" tvg-language="" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="Music",ON TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Onda Digital (PE)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Music",Onda Digital (PE)
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-name="Onda Digital" tvg-country="PE" tvg-language="" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Music",Onda Digital
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",One America News (720p)
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
@@ -3829,7 +3829,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Zagros.iq" tvg-name="Zagros" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="General",Zagros (720p)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
+#EXTINF:-1 tvg-id="ZappingMusicHD.cl" tvg-name="Zapping Music HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
 https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8

@@ -2145,7 +2145,7 @@ https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="AfrobeatsAFR.uk" tvg-name="Afrobeats (AFR)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (AFR)
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Music",Alegria TV
+#EXTINF:-1 tvg-id="AlegriaTV.bo" tvg-name="Alegria TV" tvg-country="BO" tvg-language="" tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Music",Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-id="ArabicaMusic.lb" tvg-name="Arabica Music" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
@@ -2303,6 +2303,8 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Music",MCM Top (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 tvg-id="MelodyFMJordan.jo" tvg-name="Melody FM Jordan" tvg-country="JO" tvg-language="Arabic" tvg-logo="http://melody-fm.com/img/Logo.png" group-title="Music",Melody FM Jordan
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MetalTV.ru" tvg-name="Metal TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Music",Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Music",Mezzo (480p)
@@ -2342,7 +2344,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",MusicTop (720p)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 (RS)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="Music",Muzzik AMVA 2020 (RS)
+#EXTINF:-1 tvg-id="MuzzikAMVA2020RS.rs" tvg-name="Muzzik AMVA 2020 (RS)" tvg-country="RS" tvg-language="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="Music",Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzzikCafeClubSerbia.rs" tvg-name="Muzzik Cafe&Club Serbia" tvg-country="RS" tvg-language="" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Music",Muzzik Cafe&Club Serbia (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
@@ -2376,9 +2378,9 @@ https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 http://51.210.199.41/hls/stream.m3u8
 #EXTINF:-1 tvg-id="OckoTV.cz" tvg-name="Ocko TV" tvg-country="CZ" tvg-language="" tvg-logo="https://i.imgur.com/jKPRYdM.png" group-title="Music",Ocko TV (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ON TV (PT)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="Music",ON TV (PT)
+#EXTINF:-1 tvg-id="ONTV.pt" tvg-name="ON TV" tvg-country="PT" tvg-language="" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="Music",ON TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Onda Digital (PE)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Music",Onda Digital (PE)
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-name="Onda Digital" tvg-country="PE" tvg-language="" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Music",Onda Digital
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:-1 tvg-id="ONE1Music.de" tvg-name="ONE1 Music" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="Music",ONE1 Music (1080p)
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
@@ -2584,7 +2586,7 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVMusicHD.cl" tvg-name="XTV Music HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/Gh3UlFo.jpg" group-title="Music",XTV Music HD (720p)
 https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
+#EXTINF:-1 tvg-id="ZappingMusicHD.cl" tvg-name="Zapping Music HD" tvg-country="CL" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
 https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZUTV.ro" tvg-name="ZU TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU TV (720p)
 https://ivm.antenaplay.ro/live/zutv/playlist.m3u8
@@ -4088,8 +4090,6 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-name="LookSport Plus" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/yPWvZLq.png" group-title="Sports",LookSport Plus (404p)
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Sports",maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="MavTV.us" tvg-name="MavTV" tvg-country="US;AU" tvg-language="English" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Sports",MavTV (720p)
 https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Sports",MLB Network

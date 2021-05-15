@@ -380,6 +380,8 @@ https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-name="Mekameleen TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News",Mekameleen TV (720p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MelodyFMJordan.jo" tvg-name="Melody FM Jordan" tvg-country="JO" tvg-language="Arabic" tvg-logo="http://melody-fm.com/img/Logo.png" group-title="Music",Melody FM Jordan
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-name="MusawaChannel" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="General",MusawaChannel (404p)
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News",Nabaa TV
