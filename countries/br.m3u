@@ -7,8 +7,6 @@ http://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="Animestation.br" tvg-name="Animestation" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="",Animestation (480p)
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
-#EXTINF:-1 tvg-id="BajoCeroTV.br" tvg-name="Bajo Cero TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/aRPmfji.jpg" group-title="Music",Bajo Cero TV (360p)
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV110.br" tvg-name="Brasil IPTV_110" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_18 (720p)
@@ -63,8 +61,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.br" tvg-name="ITV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV (720p)
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="MetropoleNewsTV.br" tvg-name="Metrópole News TV" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Metrópole News TV (480p)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-name="MKK Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV (360p)
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV (1080p)
@@ -117,8 +113,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 http://149.56.85.6:8341/play?1611806700516
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p)
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTTVCidadeVerdePI.br" tvg-name="SBT - TV Cidade Verde - (PI)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Cidade Verde - (PI) (1080p)
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="SBTTVJornalPE.br" tvg-name="SBT - TV Jornal (PE)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Jornal (PE) (720p)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTTVSerraDouradaGO.br" tvg-name="SBT - TV Serra Dourada - (GO)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Serra Dourada - (GO)
@@ -237,8 +231,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVManaCordoba.br" tvg-name="TV Maná Córdoba" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV Maná Córdoba (576p)
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAR.br" tvg-name="TV MAR" tvg-country="BR" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg" group-title="",TV MAR
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-name="TV MAX" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="",TV MAX (720p)
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMetropolitanaRio.br" tvg-name="TV Metropolitana Rio" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV Metropolitana Rio

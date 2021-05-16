@@ -47,8 +47,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="BaebleMusicXUMO.us" tvg-name="BaebleMusic  (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9kLTfsY.png" group-title="Music",BaebleMusic  (XUMO)
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
-#EXTINF:-1 tvg-id="BajoCeroTV.br" tvg-name="Bajo Cero TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/aRPmfji.jpg" group-title="Music",Bajo Cero TV (360p)
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-name="Balkanika TV" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika TV
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV (1080p)

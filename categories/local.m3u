@@ -401,8 +401,6 @@ https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
 https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
 #EXTINF:-1 tvg-id="SouthCarolinaFlorenceSTIRR.us" tvg-name="South Carolina: Florence (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",South Carolina: Florence (STIRR) (720p)
 https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="Local",Start TV (480p)
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSJORXDTV.jp" tvg-name="TBS (JORX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Local",TBS (JORX-DTV)
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)

@@ -25,8 +25,6 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXS TV Now" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="BajoCeroTV.br" tvg-name="Bajo Cero TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/aRPmfji.jpg" group-title="",Bajo Cero TV (360p)
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bambu" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9f07c02cd6e13fc201f353" group-title="",Bambu
 https://bambu-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNewsYingGuo.uk" tvg-name="BBC World News(英国)" tvg-country="UK" tvg-language="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="",BBC World News(英国)
@@ -642,8 +640,6 @@ https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-name="Gulli Bil Arabi" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Arabic",Gulli Bil Arabi (1080p)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
-#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-name="Halab Today TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="Arabic",Halab Today TV (480p)
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="HawasTV.ae" tvg-name="Hawas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Arabic",Hawas TV
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1 tvg-id="iFILMArabic.ir" tvg-name="iFILM Arabic" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" group-title="Arabic",iFILM Arabic (720p)
@@ -684,8 +680,6 @@ http://93.184.1.247/LBC-International/index.m3u8
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Libya218News.ly" tvg-name="Libya 218 News" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mzwdt39.jpg" group-title="Arabic",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-name="Libya Al Ahrar TV" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://pbs.twimg.com/profile_images/953959542928412673/wYWx5MRY.jpg" group-title="Arabic",Libya Al Ahrar TV
-https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LibyaAlHadath.ly" tvg-name="Libya Al Hadath" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="Arabic",Libya Al Hadath
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="LibyaChannel.ly" tvg-name="Libya Channel" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1524006480.jpg" group-title="Arabic",Libya Channel
@@ -2352,8 +2346,6 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="English",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="StarSports2HD.hk" tvg-name="Star Sports 2 HD" tvg-country="HK;IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="English",Star Sports 2 HD
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StingrayKaraoke.us" tvg-name="Stingray Karaoke" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wVVGZl9.png" group-title="English",Stingray Karaoke (1080p)
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="English",Stingray Naturescape (1080p)
@@ -2648,8 +2640,6 @@ https://lnc-wttg-fox-aws.tubi.video/index.m3u8
 https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="WTXFFox29Philadelphia.us" tvg-name="WTXF Fox 29 Philadelphia" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="English",WTXF Fox 29 Philadelphia (720p)
 https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="XcorpsTV.us" tvg-name="Xcorps TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" group-title="English",Xcorps TV (720p)
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" group-title="English",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="English",Young Hollywood (720p)
@@ -3277,8 +3267,6 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 tvg-id="Reload.cy" tvg-name="Reload" tvg-country="CY" tvg-language="English;Modern Greek (1453-)" tvg-logo="" group-title="Modern Greek (1453-)",Reload (720p)
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="Modern Greek (1453-)",Start TV (480p)
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-name="TV Creta" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" group-title="Modern Greek (1453-)",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
 #EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="Modern Greek (1453-)",Wixlar (720p)
@@ -3397,8 +3385,6 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b2892000.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Persian",Radio Javan TV (360p)
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
-#EXTINF:-1 tvg-id="SAT7PARS.ir" tvg-name="SAT7 PARS" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/zsPFNFu.png" group-title="Persian",SAT7 PARS (480p)
-https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-name="T2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BwyQR6n.png" group-title="Persian",T2 TV
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:-1 tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-country="AE;IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Persian",Towheed TV
@@ -4347,8 +4333,6 @@ http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="Turkish",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SAT7TURK.ir" tvg-name="SAT7 TURK" tvg-country="IR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/X5ut7of.png" group-title="Turkish",SAT7 TURK (480p)
-https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="Turkish",TRT Haber (720p)
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Turkish",TRT Müzik (720p)

@@ -158,8 +158,6 @@ https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-name="TVS Western Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="Classic",TVS Western Movie (360p)
 https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-id="XcorpsTV.us" tvg-name="Xcorps TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SDKWWQu.png" group-title="Classic",Xcorps TV (720p)
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
 #EXTINF:-1 tvg-id="ZLiving.us" tvg-name="Z Living" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Classic",Z Living (720p)
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="ZLiving.us" tvg-name="Z Living" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Classic",Z Living
@@ -1626,8 +1624,6 @@ https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
 https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
 #EXTINF:-1 tvg-id="SouthCarolinaFlorenceSTIRR.us" tvg-name="South Carolina: Florence (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",South Carolina: Florence (STIRR) (720p)
 https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="Local",Start TV (480p)
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSJORXDTV.jp" tvg-name="TBS (JORX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Local",TBS (JORX-DTV)
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
@@ -2157,8 +2153,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="BaebleMusicXUMO.us" tvg-name="BaebleMusic  (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9kLTfsY.png" group-title="Music",BaebleMusic  (XUMO)
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
-#EXTINF:-1 tvg-id="BajoCeroTV.br" tvg-name="Bajo Cero TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/aRPmfji.jpg" group-title="Music",Bajo Cero TV (360p)
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-name="Balkanika TV" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika TV
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV (1080p)
@@ -2979,8 +2973,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 #EXTINF:-1 tvg-id="GMANewsTVInternational.ph" tvg-name="GMA News TV International" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="News",GMA News TV International (576p)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
-#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-name="Halab Today TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="News",Halab Today TV (480p)
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV (480p)
 https://live.presstv.com/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HUMRAAZTV.us" tvg-name="HUMRAAZ TV" tvg-country="US;PK" tvg-language="Urdu" tvg-logo="" group-title="News",HUMRAAZ TV
@@ -3029,8 +3021,6 @@ https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Libya218News.ly" tvg-name="Libya 218 News" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mzwdt39.jpg" group-title="News",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-name="Libya Al Ahrar TV" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://pbs.twimg.com/profile_images/953959542928412673/wYWx5MRY.jpg" group-title="News",Libya Al Ahrar TV
-https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LibyaAlHadath.ly" tvg-name="Libya Al Hadath" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="News",Libya Al Hadath
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="LibyaChannel.ly" tvg-name="Libya Channel" tvg-country="LY" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1524006480.jpg" group-title="News",Libya Channel
@@ -3805,10 +3795,6 @@ https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" tvg-country="UG" tvg-language="English" tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" group-title="Religious",Salt TV (576p)
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
-#EXTINF:-1 tvg-id="SAT7PARS.ir" tvg-name="SAT7 PARS" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/zsPFNFu.png" group-title="Religious",SAT7 PARS (480p)
-https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT7TURK.ir" tvg-name="SAT7 TURK" tvg-country="IR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/X5ut7of.png" group-title="Religious",SAT7 TURK (480p)
-https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBN.us" tvg-name="SBN" tvg-country="US" tvg-language="Spanish" tvg-logo="http://sonlifetv.com/images/logo.png" group-title="Religious",SBN
 https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
 #EXTINF:-1 tvg-id="SBN.us" tvg-name="SBN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Religious",SBN
@@ -4148,8 +4134,6 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sports",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="StarSports2HD.hk" tvg-name="Star Sports 2 HD" tvg-country="HK;IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",Star Sports 2 HD
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Sports",STIRR Sports (720p)
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sports",Swiss Sport TV (720p)

@@ -55,8 +55,6 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATB.bo" tvg-name="ATB" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="",ATB (360p)
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="ATB" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oszItYJ.jpg" group-title="",ATB (360p)
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-name="Avivamiento TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="",Avivamiento TV (720p)
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Movies",AXN
@@ -73,8 +71,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
 https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MDI2MjY0LCJzZXNzaW9uIjoiMTc0LjkyLjE4Ny4yNDgiLCJ3aGl0ZWxpc3QiOlsiMTc0LjkyLjE4Ny4yNDgiXX0sInNpZ25hdHVyZSI6IjU1YTc3ZjJmZDU4N2RiNWJiOTA5M2ZlMjMyMTkzMjdiMDRjY2YxZGUifQ
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-_c3Wai2yuIY/Xl-e-HIk2VI/AAAAAAAAr5w/-vzqG9PJsg0DPrpR299YXH3m2u2BsQRvgCLcBGAsYHQ/s200/Boreal%2BTelevision.jpg" group-title="",Boreal (720p)
 https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="Cali TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" group-title="",Cali TV (540p)
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CampoAbiertoTV.cl" tvg-name="Campo Abierto TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="",Campo Abierto TV (Huechuraba) (480p)
 http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="",Canal 10 Cancún (720p)
@@ -107,8 +103,6 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-name="Canal 4 Jujuy" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
-#EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="",Canal 4 RD (720p)
-https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 #EXTINF:-1 tvg-id="Canal45TV.es" tvg-name="Canal 45 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="",Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-name="Canal 9 (Comodoro Rivadavia)" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="",Canal 9 (Comodoro Rivadavia)
@@ -127,16 +121,12 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 #EXTINF:-1 tvg-id="CANALCOSTATV.es" tvg-name="CANAL COSTA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png" group-title="",CANAL COSTA TV (720p)
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCoin.es" tvg-name="Canal Coín" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" group-title="",Canal Coín (576p)
-http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
 #EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-id="CanalDoce.co" tvg-name="Canal Doce" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" group-title="",Canal Doce (Sincelejo) (720p)
 https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-name="Canal Mundo+" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+ (560p)
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-name="Canal Málaga RTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga RTV (720p)
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalOnceInternacional.mx" tvg-name="Canal Once Internacional" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="",Canal Once Internacional
@@ -155,8 +145,6 @@ https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-id="CanalUCR.cr" tvg-name="Canal UCR" tvg-country="CR" tvg-language="Spanish" tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="",Canal UCR (1080p)
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4televisio.es" tvg-name="Canal4 televisió" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="",Canal4 televisió (1080p)
-http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Caracol (720p)
@@ -317,8 +305,6 @@ https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV (480p)
 https://live.presstv.com/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HM.do" tvg-name="HM" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="",HM (720p)
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-name="Hosanna Vision" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="Religious",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HuescaTV.es" tvg-name="Huesca TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="",Huesca TV
@@ -415,8 +401,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivisión Federal" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="",Multivisión Federal (720p)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="MundoMas.co" tvg-name="Mundo Mas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="",Mundo Mas (560p)
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Music",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",MusicTop (720p)
