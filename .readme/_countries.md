@@ -4,7 +4,7 @@
 	</thead>
 	<tbody>
 		<tr><td align="left">🇦🇫&nbsp;Afghanistan</td><td align="right">14</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/af.m3u</code></td></tr>
-		<tr><td align="left">🇦🇱&nbsp;Albania</td><td align="right">25</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/al.m3u</code></td></tr>
+		<tr><td align="left">🇦🇱&nbsp;Albania</td><td align="right">24</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/al.m3u</code></td></tr>
 		<tr><td align="left">🇩🇿&nbsp;Algeria</td><td align="right">48</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/dz.m3u</code></td></tr>
 		<tr><td align="left">🇦🇸&nbsp;American Samoa</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/as.m3u</code></td></tr>
 		<tr><td align="left">🇦🇩&nbsp;Andorra</td><td align="right">20</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ad.m3u</code></td></tr>
@@ -15,7 +15,7 @@
 		<tr><td align="left">🇦🇲&nbsp;Armenia</td><td align="right">38</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/am.m3u</code></td></tr>
 		<tr><td align="left">🇦🇼&nbsp;Aruba</td><td align="right">7</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/aw.m3u</code></td></tr>
 		<tr><td align="left">🇦🇺&nbsp;Australia</td><td align="right">110</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/au.m3u</code></td></tr>
-		<tr><td align="left">🇦🇹&nbsp;Austria</td><td align="right">54</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/at.m3u</code></td></tr>
+		<tr><td align="left">🇦🇹&nbsp;Austria</td><td align="right">53</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/at.m3u</code></td></tr>
 		<tr><td align="left">🇦🇿&nbsp;Azerbaijan</td><td align="right">20</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/az.m3u</code></td></tr>
 		<tr><td align="left">🇧🇸&nbsp;Bahamas</td><td align="right">3</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bs.m3u</code></td></tr>
 		<tr><td align="left">🇧🇭&nbsp;Bahrain</td><td align="right">57</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bh.m3u</code></td></tr>
@@ -27,10 +27,10 @@
 		<tr><td align="left">🇧🇯&nbsp;Benin</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bj.m3u</code></td></tr>
 		<tr><td align="left">🇧🇲&nbsp;Bermuda</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bm.m3u</code></td></tr>
 		<tr><td align="left">🇧🇹&nbsp;Bhutan</td><td align="right">8</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bt.m3u</code></td></tr>
-		<tr><td align="left">🇧🇴&nbsp;Bolivia</td><td align="right">21</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bo.m3u</code></td></tr>
+		<tr><td align="left">🇧🇴&nbsp;Bolivia</td><td align="right">20</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bo.m3u</code></td></tr>
 		<tr><td align="left">🇧🇦&nbsp;Bosnia</td><td align="right">18</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ba.m3u</code></td></tr>
 		<tr><td align="left">🇧🇼&nbsp;Botswana</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bw.m3u</code></td></tr>
-		<tr><td align="left">🇧🇷&nbsp;Brazil</td><td align="right">161</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/br.m3u</code></td></tr>
+		<tr><td align="left">🇧🇷&nbsp;Brazil</td><td align="right">157</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/br.m3u</code></td></tr>
 		<tr><td align="left">🇻🇬&nbsp;British Virgin Islands</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/vg.m3u</code></td></tr>
 		<tr><td align="left">🇧🇳&nbsp;Brunei</td><td align="right">7</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bn.m3u</code></td></tr>
 		<tr><td align="left">🇧🇬&nbsp;Bulgaria</td><td align="right">16</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bg.m3u</code></td></tr>
@@ -44,8 +44,8 @@
 		<tr><td align="left">🇨🇫&nbsp;Central African Republic</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cf.m3u</code></td></tr>
 		<tr><td align="left">🇹🇩&nbsp;Chad</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/td.m3u</code></td></tr>
 		<tr><td align="left">🇨🇱&nbsp;Chile</td><td align="right">73</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cl.m3u</code></td></tr>
-		<tr><td align="left">🇨🇳&nbsp;China</td><td align="right">871</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cn.m3u</code></td></tr>
-		<tr><td align="left">🇨🇴&nbsp;Colombia</td><td align="right">36</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/co.m3u</code></td></tr>
+		<tr><td align="left">🇨🇳&nbsp;China</td><td align="right">856</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cn.m3u</code></td></tr>
+		<tr><td align="left">🇨🇴&nbsp;Colombia</td><td align="right">33</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/co.m3u</code></td></tr>
 		<tr><td align="left">🇰🇲&nbsp;Comoros</td><td align="right">42</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/km.m3u</code></td></tr>
 		<tr><td align="left">🇨🇬&nbsp;Congo - Brazzaville</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cg.m3u</code></td></tr>
 		<tr><td align="left">🇨🇩&nbsp;Congo - Kinshasa</td><td align="right">4</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/cd.m3u</code></td></tr>
@@ -60,7 +60,7 @@
 		<tr><td align="left">🇩🇰&nbsp;Denmark</td><td align="right">19</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/dk.m3u</code></td></tr>
 		<tr><td align="left">🇩🇯&nbsp;Djibouti</td><td align="right">43</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/dj.m3u</code></td></tr>
 		<tr><td align="left">🇩🇲&nbsp;Dominica</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/dm.m3u</code></td></tr>
-		<tr><td align="left">🇩🇴&nbsp;Dominican Republic</td><td align="right">67</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/do.m3u</code></td></tr>
+		<tr><td align="left">🇩🇴&nbsp;Dominican Republic</td><td align="right">65</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/do.m3u</code></td></tr>
 		<tr><td align="left">🇪🇨&nbsp;Ecuador</td><td align="right">10</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ec.m3u</code></td></tr>
 		<tr><td align="left">🇪🇬&nbsp;Egypt</td><td align="right">65</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/eg.m3u</code></td></tr>
 		<tr><td align="left">🇸🇻&nbsp;El Salvador</td><td align="right">18</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/sv.m3u</code></td></tr>
@@ -81,7 +81,7 @@
 		<tr><td align="left">🇬🇪&nbsp;Georgia</td><td align="right">17</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ge.m3u</code></td></tr>
 		<tr><td align="left">🇩🇪&nbsp;Germany</td><td align="right">343</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/de.m3u</code></td></tr>
 		<tr><td align="left">🇬🇭&nbsp;Ghana</td><td align="right">3</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gh.m3u</code></td></tr>
-		<tr><td align="left">🇬🇷&nbsp;Greece</td><td align="right">145</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gr.m3u</code></td></tr>
+		<tr><td align="left">🇬🇷&nbsp;Greece</td><td align="right">143</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gr.m3u</code></td></tr>
 		<tr><td align="left">🇬🇱&nbsp;Greenland</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gl.m3u</code></td></tr>
 		<tr><td align="left">🇬🇩&nbsp;Grenada</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gd.m3u</code></td></tr>
 		<tr><td align="left">🇬🇵&nbsp;Guadeloupe</td><td align="right">8</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gp.m3u</code></td></tr>
@@ -91,32 +91,32 @@
 		<tr><td align="left">🇬🇼&nbsp;Guinea-Bissau</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/gw.m3u</code></td></tr>
 		<tr><td align="left">🇭🇹&nbsp;Haiti</td><td align="right">11</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ht.m3u</code></td></tr>
 		<tr><td align="left">🇭🇳&nbsp;Honduras</td><td align="right">29</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/hn.m3u</code></td></tr>
-		<tr><td align="left">🇭🇰&nbsp;Hong Kong</td><td align="right">25</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/hk.m3u</code></td></tr>
+		<tr><td align="left">🇭🇰&nbsp;Hong Kong</td><td align="right">24</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/hk.m3u</code></td></tr>
 		<tr><td align="left">🇭🇺&nbsp;Hungary</td><td align="right">42</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/hu.m3u</code></td></tr>
 		<tr><td align="left">🇮🇸&nbsp;Iceland</td><td align="right">12</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/is.m3u</code></td></tr>
-		<tr><td align="left">🇮🇳&nbsp;India</td><td align="right">232</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/in.m3u</code></td></tr>
+		<tr><td align="left">🇮🇳&nbsp;India</td><td align="right">230</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/in.m3u</code></td></tr>
 		<tr><td align="left">🇮🇩&nbsp;Indonesia</td><td align="right">50</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/id.m3u</code></td></tr>
 		<tr><td align="left">🌍&nbsp;International</td><td align="right">90</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/int.m3u</code></td></tr>
-		<tr><td align="left">🇮🇷&nbsp;Iran</td><td align="right">95</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ir.m3u</code></td></tr>
+		<tr><td align="left">🇮🇷&nbsp;Iran</td><td align="right">91</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ir.m3u</code></td></tr>
 		<tr><td align="left">🇮🇶&nbsp;Iraq</td><td align="right">82</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/iq.m3u</code></td></tr>
 		<tr><td align="left">🇮🇪&nbsp;Ireland</td><td align="right">24</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ie.m3u</code></td></tr>
 		<tr><td align="left">🇮🇱&nbsp;Israel</td><td align="right">21</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/il.m3u</code></td></tr>
-		<tr><td align="left">🇮🇹&nbsp;Italy</td><td align="right">334</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/it.m3u</code></td></tr>
+		<tr><td align="left">🇮🇹&nbsp;Italy</td><td align="right">329</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/it.m3u</code></td></tr>
 		<tr><td align="left">🇯🇲&nbsp;Jamaica</td><td align="right">2</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/jm.m3u</code></td></tr>
 		<tr><td align="left">🇯🇵&nbsp;Japan</td><td align="right">56</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/jp.m3u</code></td></tr>
 		<tr><td align="left">🇯🇴&nbsp;Jordan</td><td align="right">53</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/jo.m3u</code></td></tr>
 		<tr><td align="left">🇰🇿&nbsp;Kazakhstan</td><td align="right">31</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/kz.m3u</code></td></tr>
-		<tr><td align="left">🇰🇪&nbsp;Kenya</td><td align="right">9</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ke.m3u</code></td></tr>
+		<tr><td align="left">🇰🇪&nbsp;Kenya</td><td align="right">2</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ke.m3u</code></td></tr>
 		<tr><td align="left">🇰🇮&nbsp;Kiribati</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ki.m3u</code></td></tr>
-		<tr><td align="left">🇽🇰&nbsp;Kosovo</td><td align="right">15</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/xk.m3u</code></td></tr>
-		<tr><td align="left">🇰🇼&nbsp;Kuwait</td><td align="right">71</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/kw.m3u</code></td></tr>
+		<tr><td align="left">🇽🇰&nbsp;Kosovo</td><td align="right">14</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/xk.m3u</code></td></tr>
+		<tr><td align="left">🇰🇼&nbsp;Kuwait</td><td align="right">70</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/kw.m3u</code></td></tr>
 		<tr><td align="left">🇰🇬&nbsp;Kyrgyzstan</td><td align="right">4</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/kg.m3u</code></td></tr>
 		<tr><td align="left">🇱🇦&nbsp;Laos</td><td align="right">8</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/la.m3u</code></td></tr>
-		<tr><td align="left">🇱🇻&nbsp;Latvia</td><td align="right">15</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lv.m3u</code></td></tr>
+		<tr><td align="left">🇱🇻&nbsp;Latvia</td><td align="right">12</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lv.m3u</code></td></tr>
 		<tr><td align="left">🇱🇧&nbsp;Lebanon</td><td align="right">69</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lb.m3u</code></td></tr>
 		<tr><td align="left">🇱🇸&nbsp;Lesotho</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ls.m3u</code></td></tr>
 		<tr><td align="left">🇱🇷&nbsp;Liberia</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lr.m3u</code></td></tr>
-		<tr><td align="left">🇱🇾&nbsp;Libya</td><td align="right">49</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ly.m3u</code></td></tr>
+		<tr><td align="left">🇱🇾&nbsp;Libya</td><td align="right">48</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ly.m3u</code></td></tr>
 		<tr><td align="left">🇱🇮&nbsp;Liechtenstein</td><td align="right">14</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/li.m3u</code></td></tr>
 		<tr><td align="left">🇱🇹&nbsp;Lithuania</td><td align="right">11</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lt.m3u</code></td></tr>
 		<tr><td align="left">🇱🇺&nbsp;Luxembourg</td><td align="right">36</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lu.m3u</code></td></tr>
@@ -132,7 +132,7 @@
 		<tr><td align="left">🇲🇷&nbsp;Mauritania</td><td align="right">42</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/mr.m3u</code></td></tr>
 		<tr><td align="left">🇲🇺&nbsp;Mauritius</td><td align="right">2</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/mu.m3u</code></td></tr>
 		<tr><td align="left">🇾🇹&nbsp;Mayotte</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/yt.m3u</code></td></tr>
-		<tr><td align="left">🇲🇽&nbsp;Mexico</td><td align="right">37</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/mx.m3u</code></td></tr>
+		<tr><td align="left">🇲🇽&nbsp;Mexico</td><td align="right">36</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/mx.m3u</code></td></tr>
 		<tr><td align="left">🇫🇲&nbsp;Micronesia</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/fm.m3u</code></td></tr>
 		<tr><td align="left">🇲🇩&nbsp;Moldova</td><td align="right">22</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/md.m3u</code></td></tr>
 		<tr><td align="left">🇲🇨&nbsp;Monaco</td><td align="right">13</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/mc.m3u</code></td></tr>
@@ -145,7 +145,7 @@
 		<tr><td align="left">🇳🇦&nbsp;Namibia</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/na.m3u</code></td></tr>
 		<tr><td align="left">🇳🇷&nbsp;Nauru</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nr.m3u</code></td></tr>
 		<tr><td align="left">🇳🇵&nbsp;Nepal</td><td align="right">9</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/np.m3u</code></td></tr>
-		<tr><td align="left">🇳🇱&nbsp;Netherlands</td><td align="right">109</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nl.m3u</code></td></tr>
+		<tr><td align="left">🇳🇱&nbsp;Netherlands</td><td align="right">107</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nl.m3u</code></td></tr>
 		<tr><td align="left">🇳🇨&nbsp;New Caledonia</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nc.m3u</code></td></tr>
 		<tr><td align="left">🇳🇿&nbsp;New Zealand</td><td align="right">21</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/nz.m3u</code></td></tr>
 		<tr><td align="left">🇳🇮&nbsp;Nicaragua</td><td align="right">11</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ni.m3u</code></td></tr>
@@ -165,7 +165,7 @@
 		<tr><td align="left">🇵🇬&nbsp;Papua New Guinea</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/pg.m3u</code></td></tr>
 		<tr><td align="left">🇵🇾&nbsp;Paraguay</td><td align="right">13</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/py.m3u</code></td></tr>
 		<tr><td align="left">🇵🇪&nbsp;Peru</td><td align="right">32</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/pe.m3u</code></td></tr>
-		<tr><td align="left">🇵🇭&nbsp;Philippines</td><td align="right">16</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ph.m3u</code></td></tr>
+		<tr><td align="left">🇵🇭&nbsp;Philippines</td><td align="right">15</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ph.m3u</code></td></tr>
 		<tr><td align="left">🇵🇳&nbsp;Pitcairn Islands</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/pn.m3u</code></td></tr>
 		<tr><td align="left">🇵🇱&nbsp;Poland</td><td align="right">52</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/pl.m3u</code></td></tr>
 		<tr><td align="left">🇵🇹&nbsp;Portugal</td><td align="right">39</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/pt.m3u</code></td></tr>
@@ -191,7 +191,7 @@
 		<tr><td align="left">🇿🇦&nbsp;South Africa</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/za.m3u</code></td></tr>
 		<tr><td align="left">🇰🇷&nbsp;South Korea</td><td align="right">128</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/kr.m3u</code></td></tr>
 		<tr><td align="left">🇸🇸&nbsp;South Sudan</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ss.m3u</code></td></tr>
-		<tr><td align="left">🇪🇸&nbsp;Spain</td><td align="right">266</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/es.m3u</code></td></tr>
+		<tr><td align="left">🇪🇸&nbsp;Spain</td><td align="right">260</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/es.m3u</code></td></tr>
 		<tr><td align="left">🇱🇰&nbsp;Sri Lanka</td><td align="right">18</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/lk.m3u</code></td></tr>
 		<tr><td align="left">🇧🇱&nbsp;St. Barthélemy</td><td align="right">7</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/bl.m3u</code></td></tr>
 		<tr><td align="left">🇸🇭&nbsp;St. Helena</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/sh.m3u</code></td></tr>
@@ -202,8 +202,8 @@
 		<tr><td align="left">🇻🇨&nbsp;St. Vincent & Grenadines</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/vc.m3u</code></td></tr>
 		<tr><td align="left">🇸🇩&nbsp;Sudan</td><td align="right">45</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/sd.m3u</code></td></tr>
 		<tr><td align="left">🇸🇪&nbsp;Sweden</td><td align="right">26</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/se.m3u</code></td></tr>
-		<tr><td align="left">🇨🇭&nbsp;Switzerland</td><td align="right">119</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ch.m3u</code></td></tr>
-		<tr><td align="left">🇸🇾&nbsp;Syria</td><td align="right">59</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/sy.m3u</code></td></tr>
+		<tr><td align="left">🇨🇭&nbsp;Switzerland</td><td align="right">116</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ch.m3u</code></td></tr>
+		<tr><td align="left">🇸🇾&nbsp;Syria</td><td align="right">58</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/sy.m3u</code></td></tr>
 		<tr><td align="left">🇸🇹&nbsp;São Tomé & Príncipe</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/st.m3u</code></td></tr>
 		<tr><td align="left">🇹🇼&nbsp;Taiwan</td><td align="right">77</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tw.m3u</code></td></tr>
 		<tr><td align="left">🇹🇯&nbsp;Tajikistan</td><td align="right">3</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tj.m3u</code></td></tr>
@@ -215,7 +215,7 @@
 		<tr><td align="left">🇹🇴&nbsp;Tonga</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/to.m3u</code></td></tr>
 		<tr><td align="left">🇹🇹&nbsp;Trinidad & Tobago</td><td align="right">2</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tt.m3u</code></td></tr>
 		<tr><td align="left">🇹🇳&nbsp;Tunisia</td><td align="right">45</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tn.m3u</code></td></tr>
-		<tr><td align="left">🇹🇷&nbsp;Turkey</td><td align="right">299</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tr.m3u</code></td></tr>
+		<tr><td align="left">🇹🇷&nbsp;Turkey</td><td align="right">291</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tr.m3u</code></td></tr>
 		<tr><td align="left">🇹🇲&nbsp;Turkmenistan</td><td align="right">16</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tm.m3u</code></td></tr>
 		<tr><td align="left">🇹🇨&nbsp;Turks & Caicos Islands</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tc.m3u</code></td></tr>
 		<tr><td align="left">🇹🇻&nbsp;Tuvalu</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/tv.m3u</code></td></tr>
@@ -224,9 +224,9 @@
 		<tr><td align="left">🇺🇦&nbsp;Ukraine</td><td align="right">87</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ua.m3u</code></td></tr>
 		<tr><td align="left">🇦🇪&nbsp;United Arab Emirates</td><td align="right">120</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ae.m3u</code></td></tr>
 		<tr><td align="left">🇬🇧&nbsp;United Kingdom</td><td align="right">152</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/uk.m3u</code></td></tr>
-		<tr><td align="left">🇺🇸&nbsp;United States</td><td align="right">1619</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/us.m3u</code></td></tr>
+		<tr><td align="left">🇺🇸&nbsp;United States</td><td align="right">1618</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/us.m3u</code></td></tr>
 		<tr><td align="left">🇺🇾&nbsp;Uruguay</td><td align="right">8</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/uy.m3u</code></td></tr>
-		<tr><td align="left">🇺🇿&nbsp;Uzbekistan</td><td align="right">4</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/uz.m3u</code></td></tr>
+		<tr><td align="left">🇺🇿&nbsp;Uzbekistan</td><td align="right">3</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/uz.m3u</code></td></tr>
 		<tr><td align="left">🇻🇺&nbsp;Vanuatu</td><td align="right">5</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/vu.m3u</code></td></tr>
 		<tr><td align="left">🇻🇦&nbsp;Vatican City</td><td align="right">7</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/va.m3u</code></td></tr>
 		<tr><td align="left">🇻🇪&nbsp;Venezuela</td><td align="right">25</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ve.m3u</code></td></tr>
@@ -237,6 +237,6 @@
 		<tr><td align="left">🇿🇲&nbsp;Zambia</td><td align="right">3</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/zm.m3u</code></td></tr>
 		<tr><td align="left">🇿🇼&nbsp;Zimbabwe</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/zw.m3u</code></td></tr>
 		<tr><td align="left">🇦🇽&nbsp;Åland Islands</td><td align="right">1</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/ax.m3u</code></td></tr>
-		<tr><td align="left">Undefined</td><td align="right">2672</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/undefined.m3u</code></td></tr>
+		<tr><td align="left">Undefined</td><td align="right">2669</td><td align="left" nowrap><code>https://free2021group.github.io/iptv/countries/undefined.m3u</code></td></tr>
 	</tbody>
 </table>
