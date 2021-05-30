@@ -43,8 +43,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="7LaRioja.es" tvg-name="7 La Rioja" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",7 La Rioja (1080p)
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="7TeleValencia.es" tvg-name="7 TeleValencia" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",7 TeleValencia
-https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="7 Televisión Región de Murcia" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Televisión Región de Murcia (360p)
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",8 La Marina TV
@@ -303,8 +301,6 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-id="LebrijaTV.es" tvg-name="Lebrija TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lebrijatelevision/picture?width=320&height=320" group-title="",Lebrija TV (360p)
 https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:-1 tvg-id="LevanteTV.es" tvg-name="Levante TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="",Logos TV (720p)
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-name="M95 Televisión Marbella" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=320&height=320" group-title="Local",M95 Televisión Marbella
@@ -313,8 +309,6 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 https://stream.maestrat.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MarTV.es" tvg-name="Mar TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W1yuLKu.jpg" group-title="",Mar TV
 http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
-#EXTINF:-1 tvg-id="MijasComunicacion.es" tvg-name="Mijas Comunicación" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=320&height=320" group-title="",Mijas Comunicación (1080p)
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MMATV.es" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV (720p)
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Moods.es" tvg-name="Moods" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="",Moods (720p)
@@ -459,8 +453,6 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-id="RT.es" tvg-name="RT" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",RT (720p)
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-id="RTVMogan.es" tvg-name="RTV Mogán" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",RTV Mogán (1080p)
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="RTVC.es" tvg-name="RTVC" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/1920px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" group-title="General",RTVC (Radio Televisión Canaria) (576p)
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-name="Solidaria TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png" group-title="",Solidaria TV
@@ -539,8 +531,6 @@ https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?Playl
 http://46.26.171.189:8081/hls/emisionsanvicente.m3u8
 #EXTINF:-1 tvg-id="TVExtremena.es" tvg-name="TV Extremeña" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Extremeña
 https://cdn01.yowi.tv/43J82FST7L/master.m3u8
-#EXTINF:-1 tvg-id="TVFerrol.es" tvg-name="TV Ferrol" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="TVGirona.es" tvg-name="TV Girona" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",TV Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-id="TVHellin.es" tvg-name="TV Hellín" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Hellín (818p)
@@ -585,8 +575,6 @@ https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 #EXTINF:-1 tvg-id="UneVinalopo.es" tvg-name="Une Vinalopó" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=320&height=320" group-title="",Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
-#EXTINF:-1 tvg-id="UrbanRevolutionTV.es" tvg-name="Urban Revolution TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" group-title="",Urban Revolution TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-name="Urola Telebista" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-id="UrolaTV.es" tvg-name="Urola TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Urola TV

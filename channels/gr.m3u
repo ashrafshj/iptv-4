@@ -145,8 +145,6 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="KPHTHTV.gr" tvg-name="KPHTH TV" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png" group-title="",KPHTH TV (720p)
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="LEPANTO.gr" tvg-name="LEPANTO" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/8qLqTaK.jpg" group-title="",LEPANTO (576p)
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVETV.gr" tvg-name="LIVE TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/Dj7YFhH.png" group-title="",LIVE TV
 https://vod.streams.ovh:3829/stream/play.m3u8
 #EXTINF:-1 tvg-id="MTV.gr" tvg-name="M.TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/dh22Dj8.png" group-title="",M.TV
@@ -163,8 +161,6 @@ https://vod.streams.ovh:3037/stream/play.m3u8
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-id="MGRTV.gr" tvg-name="MGR TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/zPyXLZs.jpg" group-title="",MGR TV
 https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.gr" tvg-name="Montreal Greek TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/2tB3wqn.png" group-title="",Montreal Greek TV (480p)
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-id="MYRADIOTV.gr" tvg-name="MY RADIO TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/ZBIyCAl.png" group-title="",MY RADIO TV
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 tvg-id="NEATV.gr" tvg-name="NEA TV" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="",NEA TV (1080p)
@@ -185,8 +181,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NRGTV.gr" tvg-name="NRG TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="",NRG TV (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NSTV.gr" tvg-name="NS TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/tZnziRp.jpg" group-title="",NS TV (720p)
-http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OPENTVBUP.gr" tvg-name="OPEN TV BUP" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/c9hgL1c.jpg" group-title="",OPEN TV BUP
 http://78.83.87.222:9999/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="tvopen.gr" tvg-name="Open TV HD" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/M6XG03v.png" group-title="",Open TV HD (576p)
